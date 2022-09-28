@@ -26,6 +26,28 @@ pokes = {
             "txt": """ """,
             "esc": None}],
     },
+    "fesak": {
+            "name": "Fesak",
+            "hp": 250,
+            "atc": 6,
+            "defense": 9,
+            "attacks": ["cry"],
+            "pool": [],
+            "miss_chance": 0,
+            "desc": "A very big Fesak approaching from the shadows",
+            "lose_xp": 20,
+            "rarity": 3,
+            "types": ["stone", "normal"],
+            "evolve_poke": "",
+            "evolve_lvl": 0,
+            "initiative": 5,
+            "ico": [{
+                "txt": r""" +-------+
+     | o   o |
+     |  ***  |
+     +-------+ """,
+                "esc": None}],
+        },
     "steini": {
         "name": "Steini",
         "hp": 25,
